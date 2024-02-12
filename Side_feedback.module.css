@@ -16,6 +16,11 @@ a h6{
     text-decoration: none;
 }
 
+.maindiv a:hover{
+    text-decoration: underline;
+    color: brown;
+}
+
 .maindiv ul{
     list-style: circle;
     font-size: xx-small;
