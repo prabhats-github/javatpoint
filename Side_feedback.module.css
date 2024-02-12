@@ -1,0 +1,41 @@
+.maindiv{
+    height: 600px;
+    width: 47%;
+    /* border: 1px solid red; */
+    float: right;
+    margin-top: -600px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+a h6{
+    color: brown;
+}
+
+.maindiv ul{
+    list-style: circle;
+    font-size: xx-small;
+    margin-left: -20px;
+}
+
+ol li{
+    font-size: xx-small;
+}
+
+ol li a{
+    font-size: 0.6rem;
+    text-decoration: none;
+    color: brown;
+}
+
+ol li a:hover{
+    text-decoration: underline;
+}
+
+.div_ol{
+    /* border: 1px solid black; */
+    width: 70%;
+    height: auto;
+    margin-top: -7px;
+   
+}

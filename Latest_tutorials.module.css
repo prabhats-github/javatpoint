@@ -1,0 +1,106 @@
+.maindiv{
+    height: 400px;
+    width: 50%;
+    border: 1px solid white;
+    margin-left: 7px;
+    margin-top: 5px;
+    background-color: white;
+}
+
+.lt{
+    float: left;
+    /* border: 1px solid black; */
+    margin-top: 7px;
+    margin-left: 10px;
+    font-size: small;
+    color: rgb(41, 37, 37);
+}
+
+.allboxes{
+    height: 350px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.innerbox{
+    height: 70px;
+    width: 70px;
+    box-shadow: rgba(99,99,99,.2) 0 2px 8px 0;;
+    background-color: white;
+    margin: 12px;
+    border: 1px solid #efe8e8;
+}
+
+.innerbox img{
+    height: 30px;
+    width: 30px;
+    margin-top: 4px;
+    margin-left: 1px;
+    
+}
+.innerbox a{
+    text-decoration: none;
+    font-size: xx-small;
+    margin: 20px;
+    color: rgb(185, 4, 4);
+    
+    
+}
+
+#sql{
+    margin: 7px;
+}
+
+#rel{
+    margin: 0px;
+    font-size: 6px;
+    border: 1px solid white;
+}
+
+#r{
+    margin: 0px;
+    font-size: 8px;
+    border: 1px solid white; 
+}
+
+#native{
+    margin: 0px;
+    font-size: 8px;
+}
+
+#des{
+    margin: 0px;
+    font-size: 6px;
+    border: 1px solid white; 
+    /* margin-top: -7px; */
+}
+
+.innerbox1{
+    margin-left: 10px;
+    height: 70px;
+    width: 70px;
+    box-shadow: rgba(99,99,99,.2) 0 2px 8px 0;;
+    background-color: white;
+    margin: 12px;
+    border: 1px solid #efe8e8;
+}
+
+.innerbox1 img{
+    height: 30px;
+    width: 30px;
+    margin-top: 4px;
+    margin-left: 20px;
+}
+
+.innerbox1 a{
+    text-decoration: none;
+    font-size: xx-small;
+    margin: 20px;
+    color: rgb(185, 4, 4);
+    
+    
+}

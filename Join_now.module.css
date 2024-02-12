@@ -1,0 +1,38 @@
+body{
+    background: rgb(246, 244, 239);
+}
+
+#join_now{
+    height: 40px;
+    width: 50%;
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 7px;
+    /* box-sizing: border-box; */
+    
+
+}
+
+#join_now p{
+    margin-top: -5px;
+    font-size: small;
+}
+
+#join_now p a{
+    color: red;
+    text-decoration: none;
+}
+
+#yt{
+    color: red;
+    font-size: xx-large;
+    float: left;
+    margin-top: 8px;
+   
+}
+
+#for_more{
+    margin-left: 2px;
+    /* border: 1px solid blue; */
+    width: 80%;
+}
