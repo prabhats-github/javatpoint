@@ -12,6 +12,10 @@ a h6{
     color: brown;
 }
 
+.maindiv a{
+    text-decoration: none;
+}
+
 .maindiv ul{
     list-style: circle;
     font-size: xx-small;
